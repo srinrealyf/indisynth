@@ -1,11 +1,8 @@
+![alt text](./Assets/IndiSynth.png)
+
 # IndiSynth
 
-IndiSynth is a comprehensive synthetic data generator designed to create random and realistic (fake) data for 80+ Indian entities across multiple domains. It includes support for generating synthetic data for personal identity, business and tax-related data, banking, healthcare, and more.
-
-## Features
-- Covers over 80 Indian-specific entities.
-- Organized by categories like Personal Identity, Contact, Business, Finance, and more.
-- Generates realistic, valid, and random data.
+IndiSynth is a comprehensive synthetic data generator, designed to generate random and realistic (fake) data for 80+ Indian entities across multiple domains. It supports the generation of synthetic data for personal identity, business and tax-related data, banking, healthcare, and more.
 
 ## Installation
 
@@ -14,6 +11,10 @@ To install **IndiSynth**, use the following pip command:
 ```bash
 pip install IndiSynth
 ```
+
+## What is it?
+
+IndiSynth is a specialized tool to generate synthetic Indian data, meeting the needs of Indian demographics in various sectors, including finance, healthcare, and commerce. It offers a wide range of localized data types, such as Aadhaar numbers, PAN cards, Indian phone numbers, postal codes, GSTINs, regional names, and more, thus providing realistic and culturally relevant datasets for testing and development. With accuracy and variety at its center, IndiSynth makes the process of generating high-quality, domain-specific synthetic data for use cases in India much easier.
 
 ## Supported Categories and Functions
 
@@ -186,3 +187,7 @@ pip install IndiSynth
 ## License
 
 This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
+
+## 👨🏻‍💻 Developed by Sai Raam at StatBir
+
+For any queries, suggestions, or contributions, feel free to [reach out](https://www.linkedin.com/in/srinrealyf). Let's build and improve IndiSynth together!
