@@ -2,7 +2,7 @@
 
 # IndiSynth
 
-IndiSynth is a comprehensive synthetic data generator, designed to generate random and realistic (fake) data for 80+ Indian entities across multiple domains. It supports the generation of synthetic data for personal identity, business and tax-related data, banking, healthcare, and more.
+IndiSynth is a comprehensive synthetic data generator designed to create random and realistic (fake) data for 80+ Indian entities across multiple domains. It includes support for generating synthetic data for personal identity, business and tax-related data, banking, healthcare, and more.
 
 ## Installation
 
@@ -187,7 +187,3 @@ IndiSynth is a specialized tool to generate synthetic Indian data, meeting the n
 ## License
 
 This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
-
-## 👨🏻‍💻 Developed by Sai Raam at StatBir
-
-For any queries, suggestions, or contributions, feel free to [reach out](https://www.linkedin.com/in/srinrealyf). Let's build and improve IndiSynth together!
