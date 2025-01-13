@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name="IndiSynth",
-    version="1.0.0",
+    version="1.0.1",
     author="Sai Raam",
     author_email="srinrealyf@gmail.com",
     description="A comprehensive synthetic data generator for Indian entities.",
